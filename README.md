@@ -10,7 +10,7 @@ I like to play League of Legends, watch some series or animes, read some mangas 
 Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 
 
-:cyclone: Feel free to pass through the stones and find me in the 18th century somehere in the Highlands. :sunrise_over_mountains: :sunrise_over_mountains: :cyclone:
+:cyclone: Feel free to pass through the stones and find me in the 18th century somewhere in the Highlands. :sunrise_over_mountains: :sunrise_over_mountains: :cyclone:
 <!--
 **Anth0nyPereira/Anth0nyPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
