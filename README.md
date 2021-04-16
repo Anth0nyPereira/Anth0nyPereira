@@ -1,7 +1,7 @@
 ### Hi 👋, are you ready to go back in time? :crystal_ball: :crystal_ball:
 <p align="center>
 <img src="https://tvpururuca-cdn.nyc3.digitaloceanspaces.com/uploads/2019/08/06115317/Craigh-Na-Dun-outlander.gif"/>
-                                                                                                                  </p>
+</p>
 
 I'm Anthony Pereira and I'm in the last year of my degree in Informatics Engineering at the University of Aveiro.
 I'm interested in several areas, one being Computer Scinece, and that's why I like to think that one day I will be a "man of 7 crafts". :muscle::muscle:
