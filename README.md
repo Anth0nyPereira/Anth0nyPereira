@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, are you ready to go back in time? :crystal_ball: :crystal_ball: </h1>
 <p align ="center">
-![Alt Text](https://i.pinimg.com/originals/eb/2a/59/eb2a5935fae22564f355369f63b2f0bc.gif)
+<img src="https://i.pinimg.com/originals/eb/2a/59/eb2a5935fae22564f355369f63b2f0bc.gif">
  </p>
 
 I'm Anthony Pereira and I'm in the last year of my degree in Informatics Engineering at the University of Aveiro.
