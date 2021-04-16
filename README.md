@@ -1,6 +1,6 @@
 ### Hi 👋, are you ready to go back in time? :crystal_ball: :crystal_ball:
 <p align="center>
-          ![Alt Text](https://tvpururuca-cdn.nyc3.digitaloceanspaces.com/uploads/2019/08/06115317/Craigh-Na-Dun-outlander.gif)
+          ![Alt Text](https://i.pinimg.com/originals/eb/2a/59/eb2a5935fae22564f355369f63b2f0bc.gif)
 </p>
 
 I'm Anthony Pereira and I'm in the last year of my degree in Informatics Engineering at the University of Aveiro.
