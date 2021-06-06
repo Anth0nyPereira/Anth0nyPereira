@@ -26,10 +26,10 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
  
   <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <p align="right"
-  <em>E andare un passo più avanti<br/>
+  <b>E andare un passo più avanti<br/>
       Essere sempre vero<br/>
       Spiegare cosa è il colore<br/>
-      A chi vede bianco e nero</em>
+      A chi vede bianco e nero</b>
   </p>
 
 <!--
