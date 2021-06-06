@@ -19,8 +19,8 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 <img align="left" width="407" height="203.5" src="https://64.media.tumblr.com/d250258ae97f5a52b41f099ad8ac30d6/8b297cb5193a180f-98/s540x810/4ab20a17ad23a0b9919efd7053b0ffcacff11825.gifv">
 <img align="right" width="407" height="203.5" src="https://64.media.tumblr.com/4f71bf02d563e7b0be5e521ec34d7ad9/8b297cb5193a180f-0f/s500x750/1f7b85dcf18c70cfd53b6344697d2872f60db61a.gifv">
  </p>  
-  <br/><br/><br/><br/>
  </p>
+ <br/><br/><br/><br/>
  <p>
  <p align = "center">
 <img align="left" width="407" height="203.5" src="https://64.media.tumblr.com/ec15958bb2e436b9a8bf07d0411e143c/8b297cb5193a180f-dd/s500x750/c42ec53a23f9a79f2029d7a5a58c179b16b11864.gifv">
