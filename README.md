@@ -25,7 +25,7 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
  </p>
  
   
- <p align = "center"><b>MÅNESKIN is love, MÅNESKIN is life!! </b></p>  
+ <p align = "right"><b>MÅNESKIN is love, MÅNESKIN is life!! </b></p>  
 
 <!--
 **Anth0nyPereira/Anth0nyPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
