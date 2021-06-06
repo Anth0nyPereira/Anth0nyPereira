@@ -24,7 +24,8 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
  </p>
  </p>
  
-  <br/><br/><p align="right"
+  <br/><br/>
+  <p align="right"
   <h3>MÅNESKIN is love, MÅNESKIN is life!!</h3>
   </p>
 
