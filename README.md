@@ -26,7 +26,10 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
  
   <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <p align="right"
-  <h3>MÅNESKIN is love, MÅNESKIN is life!!</h3>
+  <i>E andare un passo più avanti
+      Essere sempre vero
+      Spiegare cosa è il colore
+      A chi vede bianco e nero</i>
   </p>
 
 <!--
