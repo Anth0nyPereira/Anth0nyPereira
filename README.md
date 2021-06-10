@@ -23,7 +23,7 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  <p>
  <p align = "center">
-<img align="left" width="407" height="203.5" src="https://64.media.tumblr.com/f6ee4894a887b6929c292845b1817873/466fddd07a6362fb-20/s1280x1920/ef45ba9f11068543b9d0bb8a4ddd4443dbee4d8d.gifv">
+<img align="left" width="407" height="203.5" src="https://64.media.tumblr.com/3a320bebc5fd21fb97527c53d26139e4/a9ac7d293b86753b-c4/s500x750/4fbdcf8b0d1bc3484ac3363eba44b478ab165378.gifv">
 <img align="right" width="407" height="203.5" src="https://64.media.tumblr.com/4bf2f0b63e4d70584e1d25b3d4b20ddb/8b297cb5193a180f-78/s540x810/c3c71a9b9404bb7c33c142f6f8a2e42307154bad.gifv">
  </p>
  </p>
