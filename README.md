@@ -4,10 +4,10 @@
 <img src="https://i.pinimg.com/originals/eb/2a/59/eb2a5935fae22564f355369f63b2f0bc.gif">
  </p>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anth0nyPereira&layout=compact)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=maroongold)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anth0nyPereira&show_icons=true&theme=maroongold)
 
 
 I'm **Anthony Pereira** and I'm in the last year of my degree in Informatics Engineering at the University of Aveiro.
