@@ -5,7 +5,7 @@
  </p>
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anth0nyPereira&layout=compact&theme=maroongold)          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anth0nyPereira&show_icons=true&theme=maroongold)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anth0nyPereira&layout=compact&theme=maroongold)          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anth0nyPereira&show_icons=true&theme=maroongold)
 
 
 I'm **Anthony Pereira** and I'm in the last year of my degree in Informatics Engineering at the University of Aveiro.
