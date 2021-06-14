@@ -7,6 +7,8 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=maroongold)
+
 
 I'm **Anthony Pereira** and I'm in the last year of my degree in Informatics Engineering at the University of Aveiro.
 I'm interested in several areas, one being Computer Science, and that's why I like to think that one day I will be a "man of 7 crafts". :muscle::muscle:
