@@ -21,7 +21,7 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 
 <p align="center">
   <img height="400" src="https://spotify-github-profile.vercel.app/api/view?uid=qijiwez4dz2lrx3disk0o172c&cover_image=true&theme=default"/>
-  <img height="380" src="https://spotify-recently-played-readme.vercel.app/api?user=qijiwez4dz2lrx3disk0o172c"/>
+  <img height="400" src="https://spotify-recently-played-readme.vercel.app/api?user=qijiwez4dz2lrx3disk0o172c"/>
  </p>
 
 <h1></h1>
