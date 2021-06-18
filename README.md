@@ -16,7 +16,8 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 
 :cyclone: Feel free to pass through the stones and find me in the 18th century somewhere in the Highlands. :sunrise_over_mountains: :sunrise_over_mountains: :cyclone:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qijiwez4dz2lrx3disk0o172c)
+       
+   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qijiwez4dz2lrx3disk0o172c)
 
 <h1></h1>
 
