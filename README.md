@@ -16,11 +16,7 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 
 :cyclone: Feel free to pass through the stones and find me in the 18th century somewhere in the Highlands. :sunrise_over_mountains: :sunrise_over_mountains: :cyclone:
 
-<p align="center">
-  <a href="https://open.spotify.com/user/qijiwez4dz2lrx3disk0o172c" target="_blank">
-    <img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=qijiwez4dz2lrx3disk0o172c&cover_image=true&theme=default" /> 
-  </a>  
-</p> 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qijiwez4dz2lrx3disk0o172c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h1></h1>
 
