@@ -5,8 +5,8 @@
  </p>
  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anth0nyPereira&layout=compact&theme=maroongold"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anth0nyPereira&show_icons=true&theme=maroongold"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anth0nyPereira&layout=compact&theme=maroongold"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anth0nyPereira&show_icons=true&theme=maroongold"/>
 
  </p>
 
@@ -28,15 +28,15 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 
 <p>
 <p align = "center">
-<img align="left" width="407" height="203.5" src="https://64.media.tumblr.com/d250258ae97f5a52b41f099ad8ac30d6/8b297cb5193a180f-98/s540x810/4ab20a17ad23a0b9919efd7053b0ffcacff11825.gifv">
-<img align="right" width="407" height="203.5" src="https://64.media.tumblr.com/4f71bf02d563e7b0be5e521ec34d7ad9/8b297cb5193a180f-0f/s500x750/1f7b85dcf18c70cfd53b6344697d2872f60db61a.gifv">
+<img align="left" width="400" height="203.5" src="https://64.media.tumblr.com/d250258ae97f5a52b41f099ad8ac30d6/8b297cb5193a180f-98/s540x810/4ab20a17ad23a0b9919efd7053b0ffcacff11825.gifv">
+<img align="right" width="400" height="203.5" src="https://64.media.tumblr.com/4f71bf02d563e7b0be5e521ec34d7ad9/8b297cb5193a180f-0f/s500x750/1f7b85dcf18c70cfd53b6344697d2872f60db61a.gifv">
  </p>  
  </p>
  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  <p>
  <p align = "center">
-<img align="left" width="407" height="203.5" src="https://64.media.tumblr.com/3a320bebc5fd21fb97527c53d26139e4/a9ac7d293b86753b-c4/s500x750/4fbdcf8b0d1bc3484ac3363eba44b478ab165378.gifv">
-<img align="right" width="407" height="203.5" src="https://64.media.tumblr.com/4bf2f0b63e4d70584e1d25b3d4b20ddb/8b297cb5193a180f-78/s540x810/c3c71a9b9404bb7c33c142f6f8a2e42307154bad.gifv">
+<img align="left" width="400" height="203.5" src="https://64.media.tumblr.com/3a320bebc5fd21fb97527c53d26139e4/a9ac7d293b86753b-c4/s500x750/4fbdcf8b0d1bc3484ac3363eba44b478ab165378.gifv">
+<img align="right" width="400" height="203.5" src="https://64.media.tumblr.com/4bf2f0b63e4d70584e1d25b3d4b20ddb/8b297cb5193a180f-78/s540x810/c3c71a9b9404bb7c33c142f6f8a2e42307154bad.gifv">
  </p>
  </p>
  
