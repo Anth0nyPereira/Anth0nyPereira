@@ -1,4 +1,5 @@
 
+ ![](https://api.visitorbadge.io/api/VisitorHit?user=Anth0nyPereira&repo=github-visitors-badge&countColor=%237B1E7A)
 <h1 align="center">Hi 👋, are you ready to go back in time? :crystal_ball: :crystal_ball: </h1>
 <p align ="center">
 <img src="https://i.pinimg.com/originals/eb/2a/59/eb2a5935fae22564f355369f63b2f0bc.gif">
@@ -13,9 +14,6 @@
  <p align="center">
  <img height="200" src="https://github-profile-trophy.vercel.app/?username=Anth0nyPereira&theme=buddhism"/>
  </p>
- 
- ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
-
 
 I'm **Anthony Pereira** and I'm in the last year of my degree in Informatics Engineering at the University of Aveiro.
 I'm interested in several areas, one being Computer Science, and that's why I like to think that one day I will be a "man of 7 crafts". :muscle::muscle:
