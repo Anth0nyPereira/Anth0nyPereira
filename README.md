@@ -1,6 +1,6 @@
-
+<h1 align="center">Hi 👋, are you ready to go back in time? :crystal_ball: :crystal_ball: </h1> <img src="https://i.pinimg.com/originals/eb/2a/59/eb2a5935fae22564f355369f63b2f0bc.gif">
 <p align ="center">
-<img src="https://i.pinimg.com/originals/eb/2a/59/eb2a5935fae22564f355369f63b2f0bc.gif">
+
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=Anth0nyPereira&repo=github-visitors-badge&countColor=%23FFBF00">
  </p>
  
