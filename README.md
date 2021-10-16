@@ -42,7 +42,7 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  <p>
  <p align = "center">
-<img align="left" width="400" height="203.5" src="https://static.wixstatic.com/media/ee0c08_5ccd92d04980458396820770cecc4617~mv2.gif/v1/fill/w_280,h_158,q_90/ee0c08_5ccd92d04980458396820770cecc4617~mv2.gif">
+<img align="left" width="400" height="203.5" src="https://pa1.narvii.com/6861/5f06558bc1cb71dc703d05b1911c29ef5037f40br1-540-250_hq.gif">
 <img align="right" width="400" height="203.5" src="https://64.media.tumblr.com/4bf2f0b63e4d70584e1d25b3d4b20ddb/8b297cb5193a180f-78/s540x810/c3c71a9b9404bb7c33c142f6f8a2e42307154bad.gifv">
  </p>
  </p>
