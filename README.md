@@ -35,15 +35,15 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 
 <p>
 <p align = "center">
-<img align="left" width="390" height="203.5" src="https://s11.favim.com/orig/7/724/7246/72466/love-anime-sad-anime-girl-Favim.com-7246603.gif">
-<img align="right" width="390" height="203.5" src="https://tv-fanatic-res.cloudinary.com/iu/s--9oUUSuHL--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1505089589/fight-to-the-death-outlander-season-3-episode-1.gif">
+<img align="left" width="350" height="203.5" src="https://s11.favim.com/orig/7/724/7246/72466/love-anime-sad-anime-girl-Favim.com-7246603.gif">
+<img align="right" width="350" height="203.5" src="https://tv-fanatic-res.cloudinary.com/iu/s--9oUUSuHL--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1505089589/fight-to-the-death-outlander-season-3-episode-1.gif">
  </p>  
  </p>
  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  <p>
  <p align = "center">
-<img align="left" width="390" height="203.5" src="https://pa1.narvii.com/6861/5f06558bc1cb71dc703d05b1911c29ef5037f40br1-540-250_hq.gif">
-<img align="right" width="390" height="203.5" src="https://64.media.tumblr.com/4bf2f0b63e4d70584e1d25b3d4b20ddb/8b297cb5193a180f-78/s540x810/c3c71a9b9404bb7c33c142f6f8a2e42307154bad.gifv">
+<img align="left" width="350" height="203.5" src="https://pa1.narvii.com/6861/5f06558bc1cb71dc703d05b1911c29ef5037f40br1-540-250_hq.gif">
+<img align="right" width="350" height="203.5" src="https://64.media.tumblr.com/4bf2f0b63e4d70584e1d25b3d4b20ddb/8b297cb5193a180f-78/s540x810/c3c71a9b9404bb7c33c142f6f8a2e42307154bad.gifv">
  </p>
  </p>
  
