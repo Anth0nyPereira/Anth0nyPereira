@@ -6,13 +6,13 @@
 <p align ="center">
 <img src="https://i.pinimg.com/originals/eb/2a/59/eb2a5935fae22564f355369f63b2f0bc.gif">
  </p>
- 
+<!--
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anth0nyPereira&layout=compact&theme=kacho_ga"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anth0nyPereira&show_icons=true&theme=kacho_ga"/>
 
  </p>
- 
+ -->
  <p align="center">
  <img height="200" src="https://github-profile-trophy.vercel.app/?username=Anth0nyPereira&theme=buddhism"/>
  </p>
