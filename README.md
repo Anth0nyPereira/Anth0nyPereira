@@ -13,6 +13,9 @@
 
  </p>
  -->
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
  <p align="center">
  <img height="200" src="https://github-profile-trophy.vercel.app/?username=Anth0nyPereira&theme=buddhism"/>
  </p>
