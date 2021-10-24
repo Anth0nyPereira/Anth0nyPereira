@@ -13,10 +13,7 @@
 
  </p>
  -->
- <p align ="center">
-<p font-size="50">🤯 This week I spent my time on 🤯</p>
- </p>
- 
+ <h2 align="center">🤯 This week I spent my time on 🤯</h2> 
  <!--START_SECTION:waka-->
 ```text
 Python   1 hr 59 mins    █████████████████████████   100.00 % 
