@@ -14,7 +14,7 @@
  </p>
  -->
  <p align ="center">
-<p height="50">🤯 This week I spent my time on 🤯</p>
+<p font-size="50">🤯 This week I spent my time on 🤯</p>
  </p>
  
  <!--START_SECTION:waka-->
