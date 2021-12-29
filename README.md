@@ -73,6 +73,10 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
     Spiegare cosa è il colore<br/>
     A chi vede bianco e nero*
 
+
+ <p align = "center">
+<img align="left" width="350" height="203.5" src="https://64.media.tumblr.com/a1781fe0f12e073576061b4dc268c9c7/418b8f267d3ff683-67/s640x960/f0c438fbb9d47b399a6130970c820a0ad0a4e3bd.gif">
+ </p>
 <!--
 **Anth0nyPereira/Anth0nyPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
