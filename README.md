@@ -73,9 +73,13 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
     Spiegare cosa è il colore<br/>
     A chi vede bianco e nero*
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
  <p align = "center">
 <img align="left" width="350" height="203.5" src="https://64.media.tumblr.com/a1781fe0f12e073576061b4dc268c9c7/418b8f267d3ff683-67/s640x960/f0c438fbb9d47b399a6130970c820a0ad0a4e3bd.gif">
+ <img align="left" width="350" height="203.5" src="https://64.media.tumblr.com/403826aa9196805e45210936d2aa12cf/8314694b6609d9df-cc/s640x960/26ce9420a49736e0a6b16ebfa6fbfb37412d96bd.gifv">
+<p align = "center> I BELIEVE IN BRUNO SUPREMACY </p>
  </p>
 <!--
 **Anth0nyPereira/Anth0nyPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
