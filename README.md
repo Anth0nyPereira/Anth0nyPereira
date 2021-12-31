@@ -17,9 +17,8 @@
  
  <!--START_SECTION:waka-->
 ```text
-Python       10 hrs 21 mins  ████████████████████████▒   96.77 % 
-Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Python   9 hrs 8 mins    █████████████████████████   99.60 % 
+Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 
