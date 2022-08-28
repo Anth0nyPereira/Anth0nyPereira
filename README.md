@@ -12,8 +12,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anth0nyPereira&show_icons=true&theme=kacho_ga"/>
 
  </p>
- -->
- <!--
  <h2 align="center">🤯 This week I spent my time on 🤯</h2> 
  
  <!--START_SECTION:waka-->
