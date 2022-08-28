@@ -10,17 +10,7 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anth0nyPereira&layout=compact&theme=kacho_ga"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anth0nyPereira&show_icons=true&theme=kacho_ga"/>
-
- </p>
- <h2 align="center">🤯 This week I spent my time on 🤯</h2> 
- 
- <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+-->
 
  <p align="center">
  <img height="200" src="https://github-profile-trophy.vercel.app/?username=Anth0nyPereira&theme=buddhism"/>
