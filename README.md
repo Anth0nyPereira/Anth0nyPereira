@@ -24,7 +24,9 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 
 :cyclone: Feel free to pass through the stones and find me in the 18th century somewhere in the Highlands. :sunrise_over_mountains: :sunrise_over_mountains: :cyclone:
 
-
+<!--
+https://s11.favim.com/orig/7/724/7246/72466/love-anime-sad-anime-girl-Favim.com-7246603.gif
+-->
 <p align="center">
   <img height="400" src="https://spotify-github-profile.vercel.app/api/view?uid=qijiwez4dz2lrx3disk0o172c&cover_image=true&theme=default"/>
   <img height="400" src="https://spotify-recently-played-readme.vercel.app/api?user=qijiwez4dz2lrx3disk0o172c"/>
@@ -34,7 +36,7 @@ Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
 
 <p>
 <p align = "center">
-<img align="left" width="350" height="203.5" src="[https://s11.favim.com/orig/7/724/7246/72466/love-anime-sad-anime-girl-Favim.com-7246603.gif](https://static.wikia.nocookie.net/harrypotter/images/f/f1/Solomon_Death.gif/revision/latest?cb=20230210122517)">
+<img align="left" width="350" height="203.5" src="https://static.wikia.nocookie.net/harrypotter/images/f/f1/Solomon_Death.gif/revision/latest?cb=20230210122517">
 <img align="right" width="350" height="203.5" src="https://tv-fanatic-res.cloudinary.com/iu/s--9oUUSuHL--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1505089589/fight-to-the-death-outlander-season-3-episode-1.gif">
  </p>  
  </p>
