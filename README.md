@@ -16,7 +16,7 @@
  <img height="200" src="https://github-profile-trophy.vercel.app/?username=Anth0nyPereira&theme=buddhism"/>
  </p>
 
-I'm **Anthony Pereira** and I'm ~~in the last year of my degree in Informatics Engineering at the University of Aveiro~~ OFICIALLY AN ENGINEER 🥇.
+I'm **Anthony Pereira** and I'm a recent graduate game developer 🥇.
 I'm interested in several areas, one being Computer Science, and that's why I like to think that one day I will be a "man of 7 crafts". :muscle::muscle:
 In my free time, I like to play League of Legends, watch some series like OUTLANDER or animes, read some mangas or even watch some documentary films about History.
 Oh, I almost forgot - Eurovision Song Contest fanatic here!! :blush: :blush:
