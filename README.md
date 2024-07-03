@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anth0nypereira" alt="anth0nypereira" /></a> </p>
 
 <h3 align="left">About me:</h3>
-My name is Anthony and I'm a software developerlooking for my first remote/hybrid opportunity,either in a junior position or intern (eligiblefor IEFP internship - Ativar.pt). I haveacademic experience in Java, Python, and C# asprogramming languages. I participated in the13th International Conference on VideogameSciences and Arts "VIDEOJOGOS'23" at theUniversity of Aveiro. I'm a hardworking,creative, and curious person who is willing tolearn and excited to start my path in the techindustry.
+My name is Anthony and I'm a software developer looking for my first remote/hybrid opportunity, either in a junior position or intern (eligible for IEFP internship - Ativar.pt). I have academic experience in Java, Python, and C# as programming languages. I participated in the 13th International Conference on VideogameSciences and Arts "VIDEOJOGOS'23" at the University of Aveiro. I'm a hardworking, creative, and curious person who is willing to learn and excited to start my path in the tech industry.
 
 - 🌱 I’m currently learning **Algorithms and Data Structures, C++**
 
