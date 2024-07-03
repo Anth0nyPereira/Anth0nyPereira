@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Algorithms and Data Structures, C++**
 
-- 👨‍💻 All of my projects are available at [anth0nypereira.itch.io](anth0nypereira.itch.io)
+- 👨‍💻 All of my projects are available at: [https://github.com/Anth0nyPereira](https://github.com/Anth0nyPereira) and [anth0nypereira.itch.io](anth0nypereira.itch.io)
 
-- 📫 How to reach me **anthony.pereira.20.000@gmail.com**
+- 📫 How to reach me: **anthony.pereira.20.000@gmail.com**
 
-- ⚡ Fun fact **I'm learning to play the electric guitar and studying Japanese**
+- ⚡ Fun facts: **I'm learning to play the electric guitar 🎸 and studying Japanese 🗾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
