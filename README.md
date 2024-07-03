@@ -90,16 +90,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Anthony Pereira</h1>
+<h1 align="center">Hi 👋, I'm Anthony Pereira, a random</h1>
 <h3 align="center">A software developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anth0nypereira&label=Profile%20views&color=0e75b6&style=flat" alt="anth0nypereira" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anth0nypereira" alt="anth0nypereira" /></a> </p>
 
-- 🌱 I’m currently learning **Algorithms and Data Structures and C++**
+- 🌱 I’m currently learning **Algorithms and Data Structures, C++**
 
-- 👨‍💻 All of my projects are available at: [anth0nypereira.itch.io](anth0nypereira.itch.io)
+- 👨‍💻 All of my projects are available at [anth0nypereira.itch.io](anth0nypereira.itch.io)
 
 - 📫 How to reach me **anthony.pereira.20.000@gmail.com**
 
@@ -116,7 +116,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anth0nypereira&show_icons=true&locale=en&layout=compact" alt="anth0nypereira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anth0nypereira&show_icons=true&locale=en" alt="anth0nypereira" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anth0nypereira&" alt="anth0nypereira" /></p>
-
 
