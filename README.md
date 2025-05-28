@@ -98,15 +98,17 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anth0nypereira" alt="anth0nypereira" /></a> </p>
 
 <h3 align="left">About me:</h3>
-My name is Anthony and I'm a software developer looking for my first remote/hybrid opportunity, either in a junior position or intern (eligible for IEFP internship - Ativar.pt). I have academic experience in Java, Python, and C# as programming languages. I participated in the 13th International Conference on VideogameSciences and Arts "VIDEOJOGOS'23" at the University of Aveiro. I'm a hardworking, creative, and curious person who is willing to learn and excited to start my path in the tech industry.
+   My name is Anthony and I'm a Cybersecurity student looking for my first opportunity in an internship (eligible for IEFP internship - Ativar.pt). 
+    I have educational experience in Java, Python, C#, and Ruby as programming languages. 
+    I'm a hardworking, creative, and curious person who is willing to learn and excited to start my path in the tech industry.
 
-- 🌱 I’m currently learning **Algorithms and Data Structures, C++**
+- 🌱 I'm currently doing a training in **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Anth0nyPereira](https://github.com/Anth0nyPereira) and [anth0nypereira.itch.io](anth0nypereira.itch.io)
 
 - 📫 How to reach me: **anthony.pereira.20.000@gmail.com**
 
-- ⚡ Fun facts: **I'm learning to play the electric guitar 🎸 and studying Japanese 🗾**
+- ⚡ Fun facts: **Playing the electric guitar 🎸 and studying Japanese 🗾** are some of my passions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
